@@ -1,10 +1,8 @@
 ### Hi, I'm Hammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<img align="right" alt="GIF" src="code.gif" width="350" height="200" />
 <p>Student, Developer and Blockchain Enthusiast!</p>
 
-
 - 🔭 Pursuing a Bachelor's Degree in Computer Science.
-- 🌱 Passionate About Blockchain Technologies.
+- 🌱 Passionate about Blockchain Technologies.
 - 👯 Excited to collaborate on Web Technologies especially Web 3.0
 
 <p align="center">
@@ -16,6 +14,8 @@
     <img src="https://img.shields.io/badge/-Hammad%20Saeedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hammadsaedi/" alt="LinkedIn" height="25">
   </a>
 </p>
+
+<!-- <img align="center" alt="GIF" src="code.gif" width="500" height="300" /> -->
 
 ### Tools and Technologies
 <p align="left"> 
