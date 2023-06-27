@@ -1,7 +1,7 @@
 ### Hi, I'm Hammad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<h3 align="center">Student, Developer and Blockchain Enthusiast!</h3>
+<img align="right" alt="GIF" src="code.gif" width="350" height="200" />
+<p>Student, Developer and Blockchain Enthusiast!</p>
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 - 🔭 Pursuing a Bachelor's Degree in Computer Science.
 - 🌱 Passionate About Blockchain Technologies.
