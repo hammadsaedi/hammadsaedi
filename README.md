@@ -37,7 +37,7 @@
 ### My Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hammadsaedi&show_icons=true&theme=tokyonight" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsaedi&langs_count=5&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,hammadsaedi.github.io&&hide=Cython,C,PowerShell" alt="Top languages used">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsaedi&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,hammadsaedi.github.io&&hide=Cython,C,PowerShell,CMake,Shell" alt="Top languages used">
 </p>
 
 <h3 align="center">Thanks for visiting! 😄</h3>
