@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hammadsaedi&show_icons=true&theme=tokyonight" alt="GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadsaedi&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,hammadsaedi.github.io&&hide=Cython,C,PowerShell,CMake,Shell" alt="Top languages used">
+<img alt="hammadsaedi's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadsaedi&theme=tokyonight">
 </p>
 
 <h3 align="center">Thanks for visiting! 😄</h3>
