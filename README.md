@@ -41,4 +41,6 @@
 <img alt="hammadsaedi's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadsaedi&theme=tokyonight">
 </p>
 
+[![An image of @hammadsaedi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hammadsaedi)](https://holopin.io/@hammadsaedi)
+
 <h3 align="center">Thanks for visiting! 😄</h3>
